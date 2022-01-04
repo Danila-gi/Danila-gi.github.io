@@ -1,0 +1,51 @@
+body{
+	overflow-x: hidden;
+}
+.header{
+	text-align: center;
+	font-size: 20px;
+	line-height: 1.5;
+	margin: 60px 0;
+}
+.header span{
+	display: block;
+}
+.form{
+	border: 5px blue solid;
+	padding: 35px 20px;
+}
+.form-header{
+	margin-bottom: 20px;
+	font-size: 20px;
+	font-weight: 900;
+}
+.form button{
+	margin: 10px auto;
+}
+.form input{
+	margin-bottom: 11px;
+}
+.succses img{
+	width: 50%;
+	height: auto;
+}
+.succses p{
+	font-size: 17px;
+	font-weight: 800;
+	margin-top: 20px;
+}
+.succses{
+	margin-top: 60px;
+}
+.end{
+	margin-top: 100px;
+}
+.fon{
+	z-index: -1;
+	position: absolute;
+	margin: -5;
+}
+.section{
+	background-color: white;
+	padding: 30px 0;
+}
